@@ -1,15 +1,28 @@
 # Problem Solving 🚀
+This repository contains my personal solutions to programming problems, primarily from **Codeforces** and **LeetCode**. I’m currently solving problems in **C**, with plans to expand to **C++** as I progress.
 
-This repository contains my personal solutions to programming problems, primarily from **Codeforces**, with plans to include **LeetCode** soon.
+## 🏆 Number of Problems Solved (from April 2025)
+- **Total**: 17
+- **Codeforces**: 17
+- **LeetCode**: 0
 
-I’m currently solving problems in **C**, with plans to expand to **C++** as I progress.
+## 🎯 Target 2025
+- **Codeforces**: 100 problems
+- **LeetCode**: 75 problems
+- **Total**: 175 problems
 
 ## 🌐 Platforms
-- 🟦 [Codeforces](https://codeforces.com/problemset?order=BY_SOLVED_DESC) – Solving problems from this list.
-- 🟨 LeetCode – planned for future inclusion
+- 🟦 **[Codeforces](https://codeforces.com/)**  
+  **[Codeforces](https://codeforces.com/problemset?order=BY_SOLVED_DESC)** - Currently solving problems from this list.  
+  Codeforces problem set is ordered by the most solved problems in descending order.
 
-## My Codeforces Profile
-- 🔗 [Dareu49](https://codeforces.com/profile/Dareu49)
+- 🟨 **[LeetCode](https://leetcode.com/)**  
+  **[LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)** - Currently solving problems from this list.  
+  LeetCode 75 is a study plan with 75 essential algorithm and data structure problems to enhance problem-solving skills and prepare for technical interviews, covering topics like arrays, linked lists, stacks, queues, dynamic programming, and graphs.
+
+## 🧮 My Profiles
+- **Codeforces**: 🔗 [Dareu49](https://codeforces.com/profile/Dareu49)  
+- **LeetCode**: 🔗 [Dareu49](https://leetcode.com/u/Dareu49/)
 
 ## 🛠️ Languages
 - ✅ C  
@@ -22,8 +35,11 @@ Each commit follows a consistent format for easy tracking:
 `Solve 4A - Watermelon [brute force, math]`
 
 ## 📁 Folder Structure
-- `codeforces/`: Contains solutions to problems from Codeforces.
+- `Codeforces/`: Contains Codeforces problem solutions.
   - `C/`: Solutions written in C for problems from Codeforces.
+
+- `Leetcode/`: Contains LeetCode problem solutions.
+  - `C/`: Solutions written in C for problems from LeetCode.
 
 ## 📈 Goal
 The purpose of this repository is to:
