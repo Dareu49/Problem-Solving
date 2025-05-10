@@ -1,7 +1,6 @@
 // Started: 09 May 2025, 09:30 pm
 // Solved: 10 May 2025, 10:39 am
 #include <stdio.h> //scanf(), printf()
-#include <string.h>
 
 int main(){
     int count = 0;
