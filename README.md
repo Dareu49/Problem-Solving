@@ -4,8 +4,8 @@ This repository contains my personal solutions to programming problems, primaril
 
 ## 🏆 Number of Problems Solved (from April 2025)
 
-- **Total**: 21
-- **Codeforces**: 21
+- **Total**: 22
+- **Codeforces**: 22
 - **LeetCode**: 0
 
 ## 🎯 Target 2025
