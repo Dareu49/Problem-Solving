@@ -13,18 +13,20 @@ This repository contains my personal solutions to programming problems, primaril
 ## 🎯 Target 2025
 
 - **Total**: 175 problems
-- **Codeforces**: 100 problems
-- **LeetCode**: 75 problems
+- **Codeforces**: 26 / 100 problems 
+- **LeetCode**: 0 / 75 problems
 
 ## 🌏 Platforms
 
 - 🟦 **[Codeforces](https://codeforces.com/)**  
   **[Codeforces](https://codeforces.com/problemset?order=BY_SOLVED_DESC)** - Currently solving problems from this list
   - Codeforces problem set is ordered by the most solved problems in descending order.
+  - Number of Problems Solved from the list: 26
 
 - 🟨 **[LeetCode](https://leetcode.com/)**  
   **[LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)** - Currently solving problems from this list
   - LeetCode 75 is a study plan with 75 essential algorithm and data structure problems to enhance problem-solving skills and prepare for technical interviews, covering topics like arrays, linked lists, stacks, queues, dynamic programming, and graphs.
+  - Number of Problems Solved from the list: 0
 
 ## 🧮 My Profiles
 
@@ -45,13 +47,13 @@ Each commit follows a consistent format for easy tracking:
 
 ## 📁 Folder Structure
 
-- `Codeforces/`: Contains Codeforces problem solutions
-  - `C/`: Solutions written in C for problems from Codeforces
-  - `Cpp/`: Solutions written in C++ for problems from Codeforces
+- `codeforces/`: Contains Codeforces problem solutions
+  - `c/`: Solutions written in C for problems from Codeforces
+  - `cpp/`: Solutions written in C++ for problems from Codeforces
 
-- `Leetcode/`: Contains LeetCode problem solutions
-  - `C/`: Solutions written in C for problems from LeetCode
-  - `Cpp/`: Solutions written in C++ for problems from LeetCode
+- `leetcode/`: Contains LeetCode problem solutions
+  - `c/`: Solutions written in C for problems from LeetCode
+  - `cpp/`: Solutions written in C++ for problems from LeetCode
 
 ## 📈 Goal
 
