@@ -4,29 +4,29 @@ This repository contains my personal solutions to programming problems, primaril
 
 ## 🏆 Number of Problems Solved (from April 2025)
 
-- **Total**: 26
-- **Codeforces**: 26
-- **LeetCode**: 0
+- **Total**: 26 <!-- Update 01 -->
+- **Codeforces**: 26 <!-- Update 02 -->
+- **LeetCode**: 0 <!-- Update 03 -->
 
-*Last updated: 16 May 2025*
+*Last updated: 16 May 2025* <!-- Update 04 -->
 
-## 🎯 Target 2025
+## 🎯 Target 2025 
 
-- **Total**: 26 / 175 problems
-- **Codeforces**: 26 / 100 problems 
-- **LeetCode**: 0 / 75 problems
+- **Total**: 26 / 175 problems <!-- Update 05 -->
+- **Codeforces**: 26 / 100 problems <!-- Update 06 -->
+- **LeetCode**: 0 / 75 problems <!-- Update 07 -->
 
 ## 🌏 Platforms
 
 - 🟦 **[Codeforces](https://codeforces.com/)**  
   **[Codeforces](https://codeforces.com/problemset?order=BY_SOLVED_DESC)** - Currently solving problems from this list
   - Codeforces problem set is ordered by the most solved problems in descending order.
-  - Number of Problems Solved from the list: 26
+  - Number of Problems Solved from the list: 26 <!-- Update 08 -->
 
 - 🟨 **[LeetCode](https://leetcode.com/)**  
   **[LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)** - Currently solving problems from this list
   - LeetCode 75 is a study plan with 75 essential algorithm and data structure problems to enhance problem-solving skills and prepare for technical interviews, covering topics like arrays, linked lists, stacks, queues, dynamic programming, and graphs.
-  - Number of Problems Solved from the list: 0
+  - Number of Problems Solved from the list: 0 <!-- Update 09 -->
 
 ## 🧮 My Profiles
 
