@@ -12,7 +12,7 @@ This repository contains my personal solutions to programming problems, primaril
 
 ## 🎯 Target 2025
 
-- **Total**: 175 problems
+- **Total**: 26 / 175 problems
 - **Codeforces**: 26 / 100 problems 
 - **LeetCode**: 0 / 75 problems
 
