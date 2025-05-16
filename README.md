@@ -4,9 +4,11 @@ This repository contains my personal solutions to programming problems, primaril
 
 ## 🏆 Number of Problems Solved (from April 2025)
 
-- **Total**: 25
-- **Codeforces**: 25
+- **Total**: 26
+- **Codeforces**: 26
 - **LeetCode**: 0
+
+*Last updated: 16 May 2025*
 
 ## 🎯 Target 2025
 
@@ -45,11 +47,11 @@ Each commit follows a consistent format for easy tracking:
 
 - `Codeforces/`: Contains Codeforces problem solutions
   - `C/`: Solutions written in C for problems from Codeforces
-  - `C++/`: Solutions written in C++ for problems from Codeforces
+  - `Cpp/`: Solutions written in C++ for problems from Codeforces
 
 - `Leetcode/`: Contains LeetCode problem solutions
   - `C/`: Solutions written in C for problems from LeetCode
-  - `C++/`: Solutions written in C++ for problems from LeetCode
+  - `Cpp/`: Solutions written in C++ for problems from LeetCode
 
 ## 📈 Goal
 
